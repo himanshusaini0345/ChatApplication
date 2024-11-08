@@ -1,0 +1,24 @@
+# .NET Web API (ChatApplication) ignores
+/ChatApplication/bin/
+/ChatApplication/obj/
+/.vs/
+/ChatApplication/.idea/
+/*.user
+/*.suo
+/ChatApplication/.vs2019
+/ChatApplication/.vs2017
+
+# ASP.NET Core
+project.lock.json
+project.fragment.lock.json
+wwwroot/
+
+# Angular (ClientApp) ignores
+/node_modules/
+/dist/
+/tmp/
+/out-tsc
+/.angular
+/.npm
+/package-lock.json
+/package.json
